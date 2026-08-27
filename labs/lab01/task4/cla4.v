@@ -76,4 +76,3 @@ module cla4(
   assign cout = c4;
 
 endmodule
-

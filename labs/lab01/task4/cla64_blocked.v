@@ -40,3 +40,4 @@ module cla64_blocked(
   cla4 block15(.a(a[63:60]), .b(b[63:60]), .cin(c[15]), .sum(sum[63:60]), .cout(cout));
 
 endmodule
+
